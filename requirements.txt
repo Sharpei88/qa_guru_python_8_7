@@ -1,2 +1,4 @@
 pytest
-pypdf
+PyPDF2
+openpyxl
+xlrd
